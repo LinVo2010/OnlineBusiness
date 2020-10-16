@@ -1,0 +1,8 @@
+C:\Users\Admin\documents\visual studio 2015\Projects\BHOnline\GUI\bin\Release\GUI.exe.config
+C:\Users\Admin\documents\visual studio 2015\Projects\BHOnline\GUI\obj\Release\GUI.MHDoiTac.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\BHOnline\GUI\obj\Release\GUI.MHGuiMail.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\BHOnline\GUI\obj\Release\GUI.MHHopDong.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\BHOnline\GUI\obj\Release\GUI.MHLichHetHan.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\BHOnline\GUI\obj\Release\GUI.MHNhanTinKhachHang.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\BHOnline\GUI\obj\Release\GUI.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\BHOnline\GUI\obj\Release\GUI.csproj.GenerateResource.Cache

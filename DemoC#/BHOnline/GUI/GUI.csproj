@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{65AF7DBD-E220-4BA6-B587-3A2F97D0471D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cons.cs" />
+    <Compile Include="MHChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHChinh.Designer.cs">
+      <DependentUpon>MHChinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHChung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHChung.Designer.cs">
+      <DependentUpon>MHChung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHCTDonNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHCTDonNhapHang.designer.cs">
+      <DependentUpon>MHCTDonNhapHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHCTDonTraHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHCTDonTraHang.designer.cs">
+      <DependentUpon>MHCTDonTraHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHDangNhap.designer.cs">
+      <DependentUpon>MHDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHDangNhapNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHDangNhapNV.Designer.cs">
+      <DependentUpon>MHDangNhapNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHDoiTac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHDoiTac.Designer.cs">
+      <DependentUpon>MHDoiTac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHDonNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHDonNhapHang.designer.cs">
+      <DependentUpon>MHDonNhapHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHDonTraHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHDonTraHang.Designer.cs">
+      <DependentUpon>MHDonTraHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHDSComment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHDSComment.designer.cs">
+      <DependentUpon>MHDSComment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHGioHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHGioHang.designer.cs">
+      <DependentUpon>MHGioHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHGuiMail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHGuiMail.Designer.cs">
+      <DependentUpon>MHGuiMail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHHoaDon.designer.cs">
+      <DependentUpon>MHHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHHopDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHHopDong.Designer.cs">
+      <DependentUpon>MHHopDong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHLichHetHan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHLichHetHan.Designer.cs">
+      <DependentUpon>MHLichHetHan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHLoaiSP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHLoaiSP.designer.cs">
+      <DependentUpon>MHLoaiSP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHNhanTinKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHNhanTinKhachHang.Designer.cs">
+      <DependentUpon>MHNhanTinKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHSanPham.designer.cs">
+      <DependentUpon>MHSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHThanhToan.Designer.cs">
+      <DependentUpon>MHThanhToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHThanhToanThe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHThanhToanThe.Designer.cs">
+      <DependentUpon>MHThanhToanThe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHThemComment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHThemComment.designer.cs">
+      <DependentUpon>MHThemComment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHThongKe.designer.cs">
+      <DependentUpon>MHThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHThongTinHD_KH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHThongTinHD_KH.Designer.cs">
+      <DependentUpon>MHThongTinHD_KH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHTimSP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHTimSP.designer.cs">
+      <DependentUpon>MHTimSP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="MHChinh.resx">
+      <DependentUpon>MHChinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHChung.resx">
+      <DependentUpon>MHChung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHCTDonNhapHang.resx">
+      <DependentUpon>MHCTDonNhapHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHCTDonTraHang.resx">
+      <DependentUpon>MHCTDonTraHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHDangNhap.resx">
+      <DependentUpon>MHDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHDangNhapNV.resx">
+      <DependentUpon>MHDangNhapNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHDoiTac.resx">
+      <DependentUpon>MHDoiTac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHDonNhapHang.resx">
+      <DependentUpon>MHDonNhapHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHDonTraHang.resx">
+      <DependentUpon>MHDonTraHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHDSComment.resx">
+      <DependentUpon>MHDSComment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHGioHang.resx">
+      <DependentUpon>MHGioHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHGuiMail.resx">
+      <DependentUpon>MHGuiMail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHHoaDon.resx">
+      <DependentUpon>MHHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHHopDong.resx">
+      <DependentUpon>MHHopDong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHLichHetHan.resx">
+      <DependentUpon>MHLichHetHan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHLoaiSP.resx">
+      <DependentUpon>MHLoaiSP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHNhanTinKhachHang.resx">
+      <DependentUpon>MHNhanTinKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHSanPham.resx">
+      <DependentUpon>MHSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHThanhToan.resx">
+      <DependentUpon>MHThanhToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHThanhToanThe.resx">
+      <DependentUpon>MHThanhToanThe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHThemComment.resx">
+      <DependentUpon>MHThemComment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHThongKe.resx">
+      <DependentUpon>MHThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHThongTinHD_KH.resx">
+      <DependentUpon>MHThongTinHD_KH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHTimSP.resx">
+      <DependentUpon>MHTimSP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{5157fb8c-1485-43d2-a8bb-5d7797ffdf68}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{ce1ddc46-1f0a-454f-a896-37c777b12217}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

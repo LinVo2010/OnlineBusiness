@@ -1,0 +1,38 @@
+F:\Downloads\BHOnline\DAC\bin\Debug\DAC.dll
+F:\Downloads\BHOnline\DAC\bin\Debug\DAC.pdb
+F:\Downloads\BHOnline\DAC\bin\Debug\DTO.dll
+F:\Downloads\BHOnline\DAC\bin\Debug\DTO.pdb
+F:\Downloads\BHOnline\DAC\bin\Debug\DTO.dll.config
+F:\Downloads\BHOnline\DAC\obj\Debug\DAC.csprojAssemblyReference.cache
+F:\Downloads\BHOnline\DAC\obj\Debug\DAC.csproj.CoreCompileInputs.cache
+F:\Downloads\BHOnline\DAC\obj\Debug\DAC.csproj.CopyComplete
+F:\Downloads\BHOnline\DAC\obj\Debug\DAC.dll
+F:\Downloads\BHOnline\DAC\obj\Debug\DAC.pdb
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\DAC\bin\Debug\DAC.dll
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\DAC\bin\Debug\DAC.pdb
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\DAC\bin\Debug\DTO.dll
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\DAC\bin\Debug\DTO.pdb
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\DAC\bin\Debug\DTO.dll.config
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\DAC\obj\Debug\DAC.csprojAssemblyReference.cache
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\DAC\obj\Debug\DAC.csproj.CoreCompileInputs.cache
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\DAC\obj\Debug\DAC.csproj.CopyComplete
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\DAC\obj\Debug\DAC.dll
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\DAC\obj\Debug\DAC.pdb
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\DAC\bin\Debug\DAC.dll
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\DAC\bin\Debug\DAC.pdb
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\DAC\bin\Debug\DTO.dll
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\DAC\bin\Debug\DTO.pdb
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\DAC\bin\Debug\DTO.dll.config
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\DAC\obj\Debug\DAC.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\DAC\obj\Debug\DAC.csproj.CopyComplete
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\DAC\obj\Debug\DAC.dll
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\DAC\obj\Debug\DAC.pdb
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\DAC\bin\Debug\DAC.dll
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\DAC\bin\Debug\DAC.pdb
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\DAC\bin\Debug\DTO.dll
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\DAC\bin\Debug\DTO.pdb
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\DAC\bin\Debug\DTO.dll.config
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\DAC\obj\Debug\DAC.csprojAssemblyReference.cache
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\DAC\obj\Debug\DAC.csproj.CopyComplete
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\DAC\obj\Debug\DAC.dll
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\DAC\obj\Debug\DAC.pdb

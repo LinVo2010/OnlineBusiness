@@ -1,0 +1,58 @@
+F:\Downloads\BHOnline\BUS\bin\Debug\BUS.dll.config
+F:\Downloads\BHOnline\BUS\bin\Debug\BUS.dll
+F:\Downloads\BHOnline\BUS\bin\Debug\BUS.pdb
+F:\Downloads\BHOnline\BUS\bin\Debug\DAC.dll
+F:\Downloads\BHOnline\BUS\bin\Debug\DTO.dll
+F:\Downloads\BHOnline\BUS\bin\Debug\DAC.pdb
+F:\Downloads\BHOnline\BUS\bin\Debug\DTO.pdb
+F:\Downloads\BHOnline\BUS\bin\Debug\DTO.dll.config
+F:\Downloads\BHOnline\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+F:\Downloads\BHOnline\BUS\obj\Debug\BUS.Properties.Resources.resources
+F:\Downloads\BHOnline\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+F:\Downloads\BHOnline\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\Downloads\BHOnline\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\Downloads\BHOnline\BUS\obj\Debug\BUS.dll
+F:\Downloads\BHOnline\BUS\obj\Debug\BUS.pdb
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\BUS\bin\Debug\BUS.dll.config
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\BUS\bin\Debug\BUS.dll
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\BUS\bin\Debug\BUS.pdb
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\BUS\bin\Debug\DAC.dll
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\BUS\bin\Debug\DTO.dll
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\BUS\bin\Debug\DAC.pdb
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\BUS\bin\Debug\DTO.pdb
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\BUS\bin\Debug\DTO.dll.config
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\BUS\obj\Debug\BUS.dll
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\BUS\obj\Debug\BUS.pdb
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\BUS\bin\Debug\BUS.dll.config
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\BUS\bin\Debug\BUS.dll
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\BUS\bin\Debug\DAC.dll
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\BUS\bin\Debug\DTO.dll
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\BUS\bin\Debug\DAC.pdb
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\BUS\bin\Debug\DTO.pdb
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\BUS\bin\Debug\DTO.dll.config
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\BUS\obj\Debug\BUS.dll
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\BUS\obj\Debug\BUS.pdb
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\BUS\bin\Debug\BUS.dll.config
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\BUS\bin\Debug\BUS.dll
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\BUS\bin\Debug\DAC.dll
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\BUS\bin\Debug\DTO.dll
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\BUS\bin\Debug\DAC.pdb
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\BUS\bin\Debug\DTO.pdb
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\BUS\bin\Debug\DTO.dll.config
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\BUS\obj\Debug\BUS.dll
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\BUS\obj\Debug\BUS.pdb

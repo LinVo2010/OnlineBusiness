@@ -1,0 +1,138 @@
+F:\Downloads\BHOnline\GUI\bin\Debug\GUI.exe.config
+F:\Downloads\BHOnline\GUI\bin\Debug\GUI.exe
+F:\Downloads\BHOnline\GUI\bin\Debug\GUI.pdb
+F:\Downloads\BHOnline\GUI\bin\Debug\BUS.dll
+F:\Downloads\BHOnline\GUI\bin\Debug\DTO.dll
+F:\Downloads\BHOnline\GUI\bin\Debug\DAC.dll
+F:\Downloads\BHOnline\GUI\bin\Debug\BUS.pdb
+F:\Downloads\BHOnline\GUI\bin\Debug\BUS.dll.config
+F:\Downloads\BHOnline\GUI\bin\Debug\DTO.pdb
+F:\Downloads\BHOnline\GUI\bin\Debug\DTO.dll.config
+F:\Downloads\BHOnline\GUI\bin\Debug\DAC.pdb
+F:\Downloads\BHOnline\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+F:\Downloads\BHOnline\GUI\obj\Debug\GUI.MHChinh.resources
+F:\Downloads\BHOnline\GUI\obj\Debug\GUI.MHDoiTac.resources
+F:\Downloads\BHOnline\GUI\obj\Debug\GUI.MHGuiMail.resources
+F:\Downloads\BHOnline\GUI\obj\Debug\GUI.MHHopDong.resources
+F:\Downloads\BHOnline\GUI\obj\Debug\GUI.MHLichHetHan.resources
+F:\Downloads\BHOnline\GUI\obj\Debug\GUI.MHNhanTinKhachHang.resources
+F:\Downloads\BHOnline\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\Downloads\BHOnline\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\Downloads\BHOnline\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\Downloads\BHOnline\GUI\obj\Debug\GUI.csproj.CopyComplete
+F:\Downloads\BHOnline\GUI\obj\Debug\GUI.exe
+F:\Downloads\BHOnline\GUI\obj\Debug\GUI.pdb
+F:\Downloads\BHOnline\GUI\obj\Debug\GUI.MHCTDonTraHang.resources
+F:\Downloads\BHOnline\GUI\obj\Debug\GUI.MHDonTraHang.resources
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\bin\Debug\GUI.exe.config
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\bin\Debug\GUI.exe
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\bin\Debug\GUI.pdb
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\bin\Debug\BUS.dll
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\bin\Debug\DTO.dll
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\bin\Debug\DAC.dll
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\bin\Debug\BUS.pdb
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\bin\Debug\BUS.dll.config
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\bin\Debug\DTO.pdb
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\bin\Debug\DTO.dll.config
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\bin\Debug\DAC.pdb
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHChinh.resources
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHCTDonTraHang.resources
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHDoiTac.resources
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHDonTraHang.resources
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHGuiMail.resources
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHHopDong.resources
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHLichHetHan.resources
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHNhanTinKhachHang.resources
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.exe
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.pdb
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHDangNhap.resources
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHGioHang.resources
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHHoaDon.resources
+C:\Users\hongnguyenn\Downloads\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHTimSP.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\bin\Debug\GUI.exe.config
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\bin\Debug\GUI.exe
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\bin\Debug\GUI.pdb
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\bin\Debug\BUS.dll
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\bin\Debug\DTO.dll
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\bin\Debug\DAC.dll
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\bin\Debug\BUS.pdb
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\bin\Debug\BUS.dll.config
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\bin\Debug\DTO.pdb
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\bin\Debug\DTO.dll.config
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\bin\Debug\DAC.pdb
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHChinh.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHCTDonTraHang.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHDangNhap.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHDoiTac.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHDonTraHang.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHDSComment.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHGioHang.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHGuiMail.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHHoaDon.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHHopDong.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHLichHetHan.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHNhanTinKhachHang.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHThemComment.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHTimSP.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.exe
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.pdb
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHThanhToan.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHThanhToanThe.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHThongTinHD_KH.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHCTDonNhapHang.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHDonNhapHang.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHLoaiSP.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHSanPham.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHThongKe.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHChung.resources
+C:\Users\hp\Downloads\BHOnline\BHOnline\BHOnline\GUI\obj\Debug\GUI.MHDangNhapNV.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\bin\Debug\GUI.exe.config
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\bin\Debug\GUI.exe
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\bin\Debug\GUI.pdb
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\bin\Debug\BUS.dll
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\bin\Debug\DTO.dll
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\bin\Debug\DAC.dll
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\bin\Debug\BUS.pdb
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\bin\Debug\BUS.dll.config
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\bin\Debug\DTO.pdb
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\bin\Debug\DTO.dll.config
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\bin\Debug\DAC.pdb
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHChinh.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHChung.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHCTDonNhapHang.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHCTDonTraHang.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHDangNhap.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHDangNhapNV.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHDoiTac.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHDonNhapHang.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHDonTraHang.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHDSComment.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHGioHang.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHGuiMail.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHHoaDon.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHHopDong.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHLichHetHan.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHLoaiSP.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHNhanTinKhachHang.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHSanPham.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHThanhToan.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHThanhToanThe.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHThemComment.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHThongKe.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHThongTinHD_KH.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.MHTimSP.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.exe
+C:\Users\hp\OneDrive - VNU-HCMUS\Desktop\PTTKHT\Nhom22\DemoC#\BHOnline\GUI\obj\Debug\GUI.pdb
